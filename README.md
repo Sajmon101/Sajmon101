@@ -35,5 +35,5 @@ W pracy mam zamiar rozwijać swoje umiejętności jeszcze bardziej.
 
 ### 📊 Statystyki GitHub
 
-![Sajmon101's GitHub stats](https://github-readme-stats.vercel.app/api?username=SzymonKorus&show_icons=true&theme=radical)
+![Sajmon101's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sajmon101&show_icons=true&theme=radical)
 
