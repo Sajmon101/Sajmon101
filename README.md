@@ -1,7 +1,5 @@
 ## 🌟 Cześć! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-![Baner](https://your-banner-image-link.com/banner.png)
-
 Jestem **Szymon Korus**, 25-letnim programistą z tytułem magistra Informatyki o specjalności **Interaktywna Grafika Trójwymiarowa** na **Politechnice Śląskiej**. Studia inżynierskie ukończyłem na kierunku Automatyka i Robotyka, ale to **tworzenie gier w Unity** okazało się moją prawdziwą pasją.
 
 🎮 **Moje gry inspirują graczy do rozwiązywania zagadek i odkrywania ukrytych ścieżek.**
