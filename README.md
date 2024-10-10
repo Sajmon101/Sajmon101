@@ -13,7 +13,7 @@ My name is **Szymon Korus**, a 25-year-old programmer with a Master’s degree i
 ### 📫 Contact
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:szymon.korus.it@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/szymon-korus111)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/szymon-korus111)
 
 ---
 
