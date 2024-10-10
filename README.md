@@ -1,19 +1,14 @@
 ## 🌟 Cześć! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-Nazywam się **Szymon Korus**, jeste, 25-letnim programistą z tytułem magistra Informatyki o specjalności **Interaktywna Grafika Trójwymiarowa** na **Politechnice Śląskiej**. Studia inżynierskie ukończyłem na kierunku Automatyka i Robotyka, ale to **tworzenie gier w Unity** okazało się czymś co chciałbym robić zawodowo.
+Nazywam się **Szymon Korus**, jestem 25-letnim programistą z tytułem magistra Informatyki o specjalności **Interaktywna Grafika Trójwymiarowa** na **Politechnice Śląskiej**. Studia inżynierskie ukończyłem na kierunku Automatyka i Robotyka, ale to **tworzenie gier w Unity** okazało się czymś co chciałbym robić zawodowo.
 ---
 
 ### 🚀 O mnie
 
 - 🛠️ Tworzę projekty w **Unity** od 1,5 roku, rozwijając swoje umiejętności w projektach zespołowych i osobistych.
-- 🌱 W tworzeniu gier najbarfdziej pociąga mnie możliwość dostarczenia innym rozrywki i oglądania jak radzą sobie z wyzwaniami jakie postawiłem w grze
+- 🌱 W tworzeniu gier najbardziej pociąga mnie możliwość dostarczenia innym rozrywki i oglądania jak radzą sobie z wyzwaniami jakie postawiłem w grze
 - 🎯 Obecnie poszukuję pracy jako **programista gier komputerowych w Unity**.
 
----
-
-### 🧩 Plany na przyszłość
-
-W pracy mam zamiar rozwijać swoje umiejętności jeszcze bardziej.
 ---
 
 ### 📫 Kontakt
@@ -32,8 +27,4 @@ W pracy mam zamiar rozwijać swoje umiejętności jeszcze bardziej.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-### 📊 Statystyki GitHub
-
-![Sajmon101's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sajmon101&show_icons=true&theme=radical)
 
