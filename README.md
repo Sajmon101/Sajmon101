@@ -25,5 +25,11 @@ Nazywam się **Szymon Korus**, jestem 25-letnim programistą z tytułem magistra
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+#### Technologie, z którymi miałem okazję pracować w ramach mniejszych projektów:
+![NavMesh](https://img.shields.io/badge/NavMesh-007ACC?style=for-the-badge&logo=unity&logoColor=white)
+![ML-Agents](https://img.shields.io/badge/ML--Agents-00FFAA?style=for-the-badge&logo=unity&logoColor=white)
+![HLSL](https://img.shields.io/badge/HLSL-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
 ---
 
