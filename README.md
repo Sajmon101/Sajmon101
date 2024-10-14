@@ -6,7 +6,7 @@ My name is **Szymon Korus**, a 25-year-old programmer with a Master’s degree i
 
 - 🛠️ I've been creating projects in **Unity** for 1.5 years, developing my skills through both team and personal projects.
 - 🌱 This what excites me most about game development is the opportunity to provide entertainment and watch players take on the challenges I’ve designed for them.
-- 🎯 I am currently looking for a position as a **Unity Game Developer**.
+- 🎯 I am currently looking for a position as a **Unity Developer**.
 
 ---
 
