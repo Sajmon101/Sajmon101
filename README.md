@@ -1,6 +1,6 @@
 ## 🌟 Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-My name is **Szymon Korus**, a 25-year-old programmer with a Master’s degree in Computer Science, specializing in **Interactive 3D Graphics** from the **Silesian University of Technology**. I initially completed my Bachelor’s degree in Automation and Robotics, but it’s **game development* that I’ve found to be my true passion and career path.
+My name is **Szymon Korus**, a 25-year-old programmer with a Master’s degree in Computer Science, specializing in **Interactive 3D Graphics** from the **Silesian University of Technology**. I initially completed my Bachelor’s degree in Automation and Robotics, but it’s **game development** that I’ve found to be my true passion and career path.
 
 ### 🚀 About Me
 
